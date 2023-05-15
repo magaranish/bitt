@@ -162,7 +162,7 @@ body{
 <a href="home.html" target="_self"><li><b><font size="25px">Airline</font></b></li></a>
 <a href="cancel" target="_blank"><li>CANCELLATION</li></a>
 <a href="contact" target="_blank"><li>CONTACT US</li></a>
-<a href="sign.html" target="_blank"><input type="button" value="Sign-in"></button></a>
+<a href="sign.html" target="_blank"><input type="button" value="Sign-in"></a>
     </ul></header>
 </nav></center>
 </div>
